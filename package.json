@@ -1,0 +1,11 @@
+{
+  "name": "johnsmigha",
+  "version": "1.0.0",
+  "description": "Express and Node Tutorial",
+  "main": "1module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashish",
+  "license": "ISC"
+}
